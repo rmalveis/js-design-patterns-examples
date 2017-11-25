@@ -9,7 +9,7 @@ Material used here has it's authors/owners referenced and a link to the original
 Design Patterns are well known (documented, effectivity tested solutions) ways to solve programming common problems. These solutions are language-agnostic and can be used (adapted) for almost all comercial programming languages. Including Javascript.  
 
 
-###Let's see some code 
+### Let's see some code 
  
  - Creational Patterns
     - [Factory](http://www.dofactory.com/javascript/factory-method-design-pattern)
